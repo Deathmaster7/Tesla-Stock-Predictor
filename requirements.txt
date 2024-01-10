@@ -1,2 +1,6 @@
 import-ipynb
 import_ipynb
+yfinance
+pandas_datareader
+matplotlib
+sklearn
