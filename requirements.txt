@@ -1,1 +1,2 @@
 import-ipynb==0.1.4
+import_ipynb==0.1.4
